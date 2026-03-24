@@ -1,0 +1,11 @@
+{
+  "source": "./",
+  "plugins": [
+    {
+      "name": "professional-business-writing",
+      "description": "Remove AI writing patterns while maintaining professional authority",
+      "path": ".",
+      "version": "1.0.0"
+    }
+  ]
+}

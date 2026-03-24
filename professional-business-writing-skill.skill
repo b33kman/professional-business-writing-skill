@@ -1,0 +1,10 @@
+{
+  "name": "professional-business-writing",
+  "version": "1.0.0",
+  "description": "Remove AI writing patterns while maintaining professional authority. For business communications, reports, proposals, white papers, articles.",
+  "author": "Mark Beekman",
+  "repository": "https://github.com/b33kman/professional-business-writing-skill",
+  "license": "MIT",
+  "tags": ["writing", "editing", "professional", "business", "ai-detection", "humanizer", "communications"],
+  "skill_file": "SKILL.md"
+}
